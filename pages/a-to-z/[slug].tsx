@@ -71,6 +71,7 @@ export const getStaticProps: GetStaticProps<{ data: Detail }> = async (
 
 const AtoZDetailPage = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
   const TabId = (slug: string) => `${slug}-tab`;
+  const slugish = (text: string) => text.split(' ').join('-')
   const { title, items } = data
   return (
     <>
@@ -84,18 +85,19 @@ const AtoZDetailPage = ({ data }: InferGetStaticPropsType<typeof getStaticProps>
         role="tablist"
       >
         {items.map((item, index) => {
+          const slug = slugish(item.title)
           return (
-            <li key={item.title} className="nav-item" role="presentation">
+            <li key={slug} className="nav-item" role="presentation">
               <button
                 className={`nav-link text-nowrap ${
                   index === 0 ? 'active' : ''
                 }`}
-                id={TabId(item.title)}
+                id={TabId(slug)}
                 data-bs-toggle="tab"
-                data-bs-target={`#${item.title}`}
+                data-bs-target={`#${slug}`}
                 type="button"
                 role="tab"
-                aria-controls={item.title}
+                aria-controls={slug}
                 aria-selected="true"
               >
                 {item.title}
@@ -107,15 +109,16 @@ const AtoZDetailPage = ({ data }: InferGetStaticPropsType<typeof getStaticProps>
 
       <div className="tab-content bg-secondary rounded-3 py-4">
         {items.map((item, index) => {
+          const slug = slugish(item.title)
           return (
             <div
-              key={item.title}
+              key={slug}
               className={`tab-pane fade show ${
                 index === 0 ? 'active' : ''
               }`}
-              id={item.title}
+              id={slug}
               role="tabpanel"
-              aria-labelledby={TabId(item.title)}
+              aria-labelledby={TabId(slug)}
             >
               <div className="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
                 <div className="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
