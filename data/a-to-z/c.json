@@ -1,0 +1,27 @@
+{
+    "title": "C",
+    "items": [
+      {
+        "title": "CRYOPRESERVATION",
+        "description": "<ul><li>Is a technique to freeze and then thaw sperm, eggs or embryos for use in IVF cycles.</li><li>The cells or tissues are preserved using liquid nitrogen at -196 degree Celsius.</li><li>These temperatures effectively stop all biological activities of cells and tissues providing an indefinite longevity in cells.</li></ul>",
+        "image": ""
+      },
+      {
+        "title": "CHOCOLATE CYST",
+        "description": "<p>Ovarian cysts containing brownish thick old blood that appears like melted chocolate.</p> <p>Found in patients with endometriosis</p>",
+        "image": "",
+        "sections": [
+            {
+              "title": "Symptoms:",
+              "description": "<ul> <li>Pain during periods</li> <li>Chronic pelvic pain</li> <li>Infertility</li> <li>Pain during intercourse</li> </ul>",
+              "image": ""
+            },
+            {
+                "title": "Treatment:",
+                "description": "<ul> <li>Medical management – use of medicines or injections to provide pain relief.</li> <li>Surgical Management – Laparoscopic removal of cysts.</li> <li>ART – assisted reproductive techniques like IUI or IVF in patients with infertility</li> </ul>",
+                "image": ""
+              }
+        ]
+      }
+    ]
+}

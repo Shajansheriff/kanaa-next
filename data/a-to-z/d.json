@@ -1,0 +1,27 @@
+{
+    "title": "D",
+    "items": [
+      {
+        "title": "Donor gametes",
+        "description": "<ul><li>Gamete donation is the donation of gametes, either eggs or sperm for use in couples who are unable to use their own.</li><li>Strict ICMR guidelines should be followed and consent documented.</li></ul>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Use of donor sperm",
+            "description": "<ul> <li>Where the male partner has very poor or nil sperm counts, donor sperm from certified sperm banks are used in IUI or IVF cycles.</li>  </ul>",
+            "image": ""
+          },
+          {
+            "title": "Use of donor egg",
+            "description": "<ul> <li>Where the female partner has low number or very poor quality of eggs, donor eggs are used in IVF cycles.</li>  </ul>",
+            "image": ""
+          },
+          {
+            "title": "Use of donor embryos",
+            "description": "<ul> <li>Where defects are present in the gametes of both partners.</li>  </ul>",
+            "image": ""
+          }
+        ]
+      }
+    ]
+}

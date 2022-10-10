@@ -95,6 +95,7 @@ export const Navbar = () => {
                   </li>
                 </ul>
               </li>
+            
               <li className="nav-item">
                 <Link href={'/a-to-z'}>
                   <a className="nav-link">

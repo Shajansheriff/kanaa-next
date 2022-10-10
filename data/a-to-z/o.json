@@ -1,0 +1,27 @@
+{
+    "title": "O",
+    "items": [
+      {
+        "title": "OHSS",
+        "description": "<p>Ovarian Hyperstimulation Syndrome is a medical condition that can occur in some women who are on fertility medication to stimulate egg growth. the ovaries become swollen, enlarged and painful. </p>",
+        "image": "",
+        "sections": [
+          {
+            "title": "SYMPTOMS",
+            "description": "<ul> <li>Can range from mild to moderate</li> <li>Mild to moderate</li> <li>Mild to moderate abdominal pain</li> <li>Increase in abdominal girth</li> <li>Nausea</li> <li>Vomiting</li> <li>Diarrhoea</li> <li>Sudden increase in weight</li> <li>Severe OHSS</li> <li>Severe abdominal pain</li> <li>Severe nausea and vomiting</li> <li>Shortness of breath</li> <li>Distended abdomen</li> <li>Blood clots in legs</li> <li>Decreased urination</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Risk factors",
+            "description": "<ul> <li>PCOS</li> <li>Development of large number of follicles</li> <li>Younger age patients</li> <li>Low body weight</li> <li>Previous history of OHSS</li></ul>",
+            "image": ""
+          },
+          {
+            "title": "Prevention",
+            "description": "<ul> <li>Adjusting or changing the dose of medication.</li> <li>Coasting – we stop injections for one or two days before giving ovulation trigger.</li> <li>Avoiding use of HCG for trigger and the use of GnRh agonist as an alternative.</li> <li>Freezing all embryos</li> </ul>",
+            "image": ""
+          }
+        ]
+      }
+    ]
+}

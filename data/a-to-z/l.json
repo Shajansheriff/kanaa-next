@@ -1,0 +1,37 @@
+{
+    "title": "L",
+    "items": [
+      {
+        "title": "LAPAROSCOPY",
+        "description": "<p>It is a surgical procedure in which a fibre optic telescope is inserted through the abdominal wall to view the organs in the abdomen and perform surgery.</p>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Procedure",
+            "description": "<ul> <li>Done under general anaesthesia in the operation theatre </li> <li>Patient’s abdomen is painted with antiseptic and draped </li> <li>Small incisions are made on the abdominal wall to insert 5mm or 10 mm trocars. Pneumoperitoneum is created by introducing CO2.</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Diagnostic laparoscopy in infertility",
+            "description": "<ul> <li>Used to visualize the uterus, ovaries and tubes and detect any problems in the same.</li> <li>A dye called methylene blue is instilled into the uterus to confirm patency of tubes.</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Minor operative procedures:",
+            "description": "<ul> <li>Ovarian cyst removal</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Major operative procedures:",
+            "description": "<ul> <li>Myomectomy</li> <li>LAVH</li> <li>TLH</li> </ul>",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "title": "LUTEAL PHASE OF MENSTRUAL CYCLE",
+        "description": "<ul><li>Luteal phase is the second half of the menstrual cycle starting after ovulation and ending either in pregnancy or start of next periods.</li> <li>In most women it lasts 12 to 14 days.</li> <li>Progesterone is the major hormone of the luteal phase which is essential for the maintenance of any on-going pregnancy.</li> <li>Luteal phase defects can lead to recurrent pregnancy loss or infertility.(centre image)</li> </ul>",
+        "image": ""
+      }
+    ]
+  }

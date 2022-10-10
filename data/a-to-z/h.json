@@ -1,0 +1,39 @@
+{
+    "title": "H",
+    "items": [
+      {
+        "title": "HSG",
+        "description": "<ul><li>A hysterosalpingogram is an x-ray to assess the uterine cavity and patency of the fallopian tubes.</li> <li>Timing:done between day 3 to day 10 of the menstrual cycle.</li></ul>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Method",
+            "description": "<ul> <li>The patient is made to lie down in the x-ray room</li> <li>And the genital parts are cleaned with antiseptic solution and draped.</li> <li>Medical management of endometriosis</li> <li> A speculum is inserted to visualise the cervix and a thin metal tube is inserted into the uterine cavity.</li> <li>A radio opaque dye is injected through this and the x-ray is taken.</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Side Effects",
+            "description": "<ul> <li>Mild abdominal cramping</li> <li>Radiation exposure</li> <li>Iodine allergy</li> <li>Infection</li> <li>Spotting</li> </ul>",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "title": "HYSTEROSCOPY",
+        "description": "<p>Hysteroscopy is the inspection of the uterine cavity using a thin lighted telescope like device passed through the cervix into the uterus. Image of uterine with tube Solution such as saline or glycine is instilled through the hysteroscope into the uterus to expand it</p>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Indications",
+            "description": "<ul> <li>Abnormal uterine bleeding</li> <li>Post – menopausal bleeding </li> <li>Misplaced IUCD </li> <li>Assessment of cavity prior to IVF </li> <li>Resection of uterine septum </li> <li>Removal of endometrial polyps </li> <li>Hysteroscopic myomectomy </li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Types",
+            "description": "<ul> <li>Office hysteroscopy – done without anaesthesia in the OPD</li> <li>Diagnostic Hysteroscopy – done under anaesthesia or mild sedation in the operation theatre.</li> <li>Operative hysteroscopy – done under anaesthesia and involves some operative procedure like removal of polyps or fibroids.</li> </ul>",
+            "image": ""
+          }
+        ]
+      }
+    ]
+}

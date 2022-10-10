@@ -1,0 +1,39 @@
+{
+    "title": "G",
+    "items": [
+      {
+        "title": "GnRH Agonist",
+        "description": "<p>It is a type of medication which affects gonadotropins and sex hormones.</p>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Uses",
+            "description": "<ul> <li>Used to supress spontaneous ovulation in IVF cycles</li> <li>Trigger ovulation in antagonist cycles</li> <li>Medical management of endometriosis</li> <li> Medical management of fibroids</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Available forms",
+            "description": "<ul> <li>short acting injections-Given once per day – buserelin, leuprorelin</li> <li>long acting depot injection – Given once every 3 months leuprolide acetate</li> <li>Nasal spray – given two to three times per day.</li> </ul>",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "title": "GnRH ANTAGONIST",
+        "description": "<p>They are a class of medication that blocks the GnRH receptor and thus the action of gonadotropin releasing hormone.</p>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Uses",
+            "description": "<ul> <li>For prevention of premature LH surge and endogenous ovulation in patients undergoing IVF</li> <li>Prevention of OHSS</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Available forms",
+            "description": "<ul> <li>Cetrorelix</li> <li>Ganirelix</li> </ul>",
+            "image": ""
+          }
+        ]
+      }
+    ]
+}

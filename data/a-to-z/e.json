@@ -1,0 +1,44 @@
+{
+    "title": "E",
+    "items": [
+      {
+        "title": "Endometriosis",
+        "description": "<ul><li>A disorder in which tissue that normally lines the uterus grows outside the uterus and can be found on the ovaries, tubes, intestines, bladder or other pelvic organs.</li> <li>Painful periods, painful intercourse, pain with bowel movement or urination, excessive bleeding infertility.</li> </ul>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Diagnosis",
+            "description": "<ul> <li>pelvic examination</li> <li>Trans vaginal Ultrasound</li> <li>MRI</li> <li>Laparoscopy</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Treatment: Medical Management",
+            "description": "<ul> <li>Pain medication</li> <li>Hormone therapy – OCP, Progestins, GnRH, agonists</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Treatment: Surgical Management",
+            "description": "<ul> <li>Conservative laparoscopic surgery in patients trying to become pregnant.</li> <li>Hysterectomy with removal of the ovaries in older patients who have finished their family.</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "ART",
+            "description": "<ul> <li>As endometriosis is a chronic progressive condition which can impair fertility it is advisable that patients seek fertility treatments and try to conceive as early as possible</li> </ul>",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "title": "EMBRYO",
+        "description": "<p>Embryo refers to the early stage of growth and differentiation of an organism after fertilization till the 8th week when the fetal period begins.</p>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Stages of embryo development in IVF",
+            "description": "<ul> <li>Fertilization is visible approximately 17 to 18 hours later with the development of two round bodies called pronuclei in the centre of the egg</li> <li>30 hours- from fertilization, the now fertilized egg will divide producing a two cell embryo.</li> <li>Day 2- four cell embryo stage</li> <li>Day 3- eight cell embryo stage</li> <li>Day 4- morula or ball of cells</li> <li>Day 5- 5- blastocyst</li> </ul>",
+            "image": ""
+          }
+        ]
+    }
+    ]
+}

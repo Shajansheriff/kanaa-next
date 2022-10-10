@@ -1,0 +1,37 @@
+{
+    "title": "M",
+    "items": [
+      {
+        "title": "MENSTRUAL CYCLE",
+        "description": "<ul><li>The menstrual cycle is the monthly series of changes a woman’s body goes through in preparation for the possibility of pregnancy.</li> <li>Normal cycle length is every 21 to 35 days and lasting for 2-7 days</li> </ul>",
+        "image": "",
+        "sections": [
+          {
+            "title": "CAUSES OF IRREGULAR MENSTRUAL CYCLE (IRREGULAR PERIODS):",
+            "description": "<ul> <li>Pregnancy</li> <li>Breast feeding</li> <li>Eating disorder</li> <li>Excessive weight gain or weight loss</li> <li>PCOS</li> <li>Excess physical or mental stress.</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "MULTIPLE PREGNANCY:",
+            "description": "<ul> <li>It is a condition where the woman is carrying more than one baby in the womb. It may be twins, triplets or more.</li> <li>It is a very common condition associated with Assisted Reproductive Treatment.g</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Types:",
+            "description": "<ul> <li>Dizygotic or Non identical Twins:</li> <li>Results from the fertilization of two ova.</li> <li>Monozygotic or identical twins:</li> <li>Results from the fertilization of single ova.</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "Complications:",
+            "description": "<ul> <li>Excessive nausea and vomiting</li> <li>Increased risk of pregnancy induced hypertension</li> <li>Increased risk of gestational diabetes</li> <li>Increased fluid levels (hydramnios)</li> <li>Pre-term labour</li> <li>Post-partum haemorrhage</li>  </ul>",
+            "image": ""
+          },
+          {
+            "title": "Pre Natal Care Plan:",
+            "description": "<ul> <li>Increased nutrition</li> <li>Increased rest</li> <li>More frequent pre natal visits</li> <li>Monthly ultrasounds</li> <li>Tocolytic Medicines to prevent early labour.</li> <li>Steroid Injections to accelerate lung maturity.</li> </ul>",
+            "image": ""
+          }
+        ]
+      }
+    ]
+}

@@ -7,6 +7,7 @@ import { Navbar } from '../../components/Navbar';
 import { Routes } from '../../utils';
 
 import doctorsData from '../../data/doctors.json';
+import Image from 'next/image';
 const { items: doctors } = doctorsData;
 
 interface Doctor {
@@ -62,6 +63,7 @@ export const getStaticProps: GetStaticProps<{ data: Doctor }> = async (
 };
 
 const Page = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
+
   return (
     <main className="page-wrapper">
       <Navbar />
@@ -78,7 +80,17 @@ const Page = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
             ></p>
           </div>
 
-          <div className="col-lg-6 mt-xl-3 pt-5 pt-lg-4"></div>
+          <div className="col-lg-6">
+            <div className="mt-5">
+          <Image
+                      src={`/assets/img${data.image}`}
+                      className="rounded-3"
+                      alt={data.name}
+                      width="500"
+                      height="500"
+                    />
+            </div>
+          </div>
         </div>
       </div>
     </main>

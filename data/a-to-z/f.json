@@ -1,0 +1,38 @@
+{
+    "title": "F",
+    "items": [
+      {
+        "title": "FERTILIZATION",
+        "description": "<ul><li>Fertilization is the union of human egg and sperm, usually occurring in the ampulla of the fallopian tube.</li> <li>The result of this union is the production of zygote initiating development.</li> </ul>",
+        "image": ""
+      },
+      {
+        "title": "FIBROIDS",
+        "description": "<ul> <li>Embryo refers to the early stage of growth and differentiation of an organism after fertilization till the 8th week when the fetal period begins.</li> <li>Commonest tumours for the female genital tract</li> </ul>",
+        "image": "",
+        "sections": [
+          {
+            "title": "Types",
+            "description": "<ul> <li>Classified according to their location in the uterus.</li>  <li> sub serous – fibroids form on the outer wall of the uterus called serosa.</li> <li> Intramural – fibroids appear within the muscular wall of uterus called the myometrium</li> <li>Submucosal – fibroids project partially or completely into the uterine cavity</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "DIAGNOSIS",
+            "description": "<ul> <li>Pelvic exam</li>  <li> Ultrasound</li> <li>MRI </li> <li>HSG or Hysteroscopy to visualise the cavity. </li>  </ul>",
+            "image": ""
+          },
+          {
+            "title": "Treatment: Medical management",
+            "description": "<ul> <li>Tranexamic Acid-to reduce heavy flow during periods</li>  <li> NSAIDS- to reduce pain during per</li> <li>OCPs </li> <li>Gn-RH agonists </li>  </ul>",
+            "image": ""
+          },
+          {
+            "title": "Treatment: Surgical management",
+            "description": "<ul> <li>Myomectomy– Removal of the fibroids alone , conserving the uterus. The route of surgery may be: Open Laparoscopy ,Hysteroscopy depending on the size, number and location of fibroids</li>  <li> Hysterectomy-Removal of the uterus in older women who have completed child bearing.</li> </ul>",
+            "image": ""
+          }
+          
+        ]
+    }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "J",
+    "items": [
+      {
+        "title": "JUNK FOODS",
+        "image": "",
+        "sections": [
+          {
+            "title": "What to Have ?",
+            "description": "<ul> <li>whole grains</li> <li>Organic fruits and veggies</li> <li>More mono unsaturated fat</li> <li>from products like olive oil</li> <li>Grass fed organic meats</li> <li>Fresh water fish rich in omega 3 fatty acids</li> </ul>",
+            "image": ""
+          },
+          {
+            "title": "What not to Have ?",
+            "description": "<ul> <li>Refined sugar</li> <li>Processed carbohydrates</li> <li>Trans fats</li> <li>Colas</li> <li>Alcohol</li> <li>Excessive caffeine</li> <li>Smoking</li> </ul>",
+            "image": ""
+          }
+        ]
+      }
+    ]
+}
