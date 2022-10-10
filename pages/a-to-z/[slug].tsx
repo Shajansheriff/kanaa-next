@@ -77,7 +77,7 @@ const AtoZDetailPage = ({ data }: InferGetStaticPropsType<typeof getStaticProps>
       <div style={{ marginTop: 80 }} />
       <section className="container pt-2 pb-2 mt-3 mb-5 mt-sm-4 mt-xl-3">
          <section className="container pt-2 pb-2 mt-3 mb-5 mt-sm-4 mt-xl-3">
-      <h2 className="h1 text-center pb-3 pb-lg-4">{title}</h2>
+      <h2 className="h1 text-center pb-3 pb-lg-4">&quot;{title}&quot; for</h2>
 
       <ul
         className="nav nav-tabs flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-3 mb-lg-4"
