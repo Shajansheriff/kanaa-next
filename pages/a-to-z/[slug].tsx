@@ -14,7 +14,7 @@ interface Definition {
   title: string;
   description: string;
   image: string;
-  sections: Section[]
+  sections?: Section[]
 }
 
 interface Detail {
@@ -133,7 +133,7 @@ const AtoZDetailPage = ({ data }: InferGetStaticPropsType<typeof getStaticProps>
                 </div>
               </div>
               <section className="container pt-5 pb-2 pb-md-3 py-lg-5">
-                {item.sections.map((section) => {
+                {(item.sections ?? []).map((section) => {
                   return (
                     <div key={section.title} className="row align-items-center my-3 py-md-3 py-lg-5">
                       <div className="col-md-6 col-xl-5 offset-lg-1 offset-xl-2 order-md-2 mb-2 mb-md-0 pb-4 pb-md-0">
