@@ -52,3 +52,8 @@
 
 // User custom styles
 @import 'user';
+
+
+.header.navbar .modal-backdrop.show {
+  z-index: 999;
+}
