@@ -65,12 +65,12 @@ export const getStaticProps: GetStaticProps<{ data: Doctor }> = async (
 const Page = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
 
   return (
-    <main className="page-wrapper">
-      <Navbar />
-      <div className="container position-relative zindex-5  mt-5">
+    <>
+    <div style={{ marginTop: 80 }} />
+      <section className="container pt-4 pb-5 mb-lg-5">
         <div className="row">
           <div className="col-lg-6">
-            <Breadcrumbs items={[{ href: Routes.doctors, name: 'Doctors' }]} />
+            <Breadcrumbs className='mb-2' items={[{ href: Routes.doctors, name: 'Doctors' }]} />
 
             <h1 className="pb-2 pb-md-3">{data.name}</h1>
             <p
@@ -92,8 +92,8 @@ const Page = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
             </div>
           </div>
         </div>
-      </div>
-    </main>
+        </section>
+        </>
   );
 };
 

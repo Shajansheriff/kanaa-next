@@ -6,8 +6,7 @@ import { OurDoctors } from '../../sections/our-doctors';
 
 const Page: NextPage = () => {
   return (
-    <main className="page-wrapper">
-      <Navbar />
+    <>
       <div className="container pb-4 pt-5 mt-5">
         <h2 className="h1 text-center pt-1 pt-xl-2 mb-4">Our Team</h2>
         <p className="fs-lg text-muted text-center pb-4 mb-2 mb-lg-3">
@@ -18,7 +17,7 @@ const Page: NextPage = () => {
         <OurDoctors />
       </div>
       <ContactCTA />
-    </main>
+    </>
   );
 };
 
