@@ -6,6 +6,7 @@ import { Hero } from '../sections/hero';
 import { LandingServices } from '../sections/landing-services';
 import { OurDoctors } from '../sections/our-doctors';
 import { OnlineConsultation } from '../sections/online-consultation';
+import { SuccessStories } from '../sections/success-stories';
 
 
 const Home: NextPage<{ navbar: any }> = ({ navbar }) => {
@@ -18,6 +19,7 @@ const Home: NextPage<{ navbar: any }> = ({ navbar }) => {
       <LandingServices />
       <OnlineConsultation />
       <OurDoctors isMini={true} />
+      <SuccessStories />
     </>
   );
 };

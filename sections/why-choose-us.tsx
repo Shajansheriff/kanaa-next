@@ -11,7 +11,7 @@ export const WhyChooseUs = () => {
         <h2 className="h1 text-center pt-1 pt-xl-2 mb-4">
           See What Makes Us Different
         </h2>
-        <p className="fs-lg text-muted text-center pb-4 mb-2 mb-lg-3">
+        <p className="fs-lg text-reset text-center pb-4 mb-2 mb-lg-3">
           Your best care begins here. Let us break the stigma and misinformation
           surrounding fertility
         </p>
