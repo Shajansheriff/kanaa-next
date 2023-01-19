@@ -44,7 +44,7 @@ export function FertilityCheckup({ data }: Props) {
                     <img src="/assets/img/support.svg" alt="Icon" />
                   </div> */}
                   <div className="">
-                    <h3 className="h5 pb-1 mb-2">What to expect?</h3>
+                    <h3 className="h5 pb-1 mb-2">Our Services</h3>
                     <div
                       className="mb-0"
                       dangerouslySetInnerHTML={{ __html: data.expect }}

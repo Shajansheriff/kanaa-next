@@ -2,7 +2,7 @@
   "title": "Breast Clinic",
   "slug": "breast-clinic",
   "description": "<p>Breast cancer is one of the most common cancers affecting women worldwide and detection at early stages is a game-changer in the treatment and cure of the disease.</p>",
-  "image": "/assets/img/fertility-checkup/for-her.jpg",
+  "image": "/assets/img/fertility-checkup/breast-checkup.jpg",
   "expect": "<ul> <li>Outpatient breast consultation <ul> <li>Screening/ diagnostic mammograms</li> <li>Breast ultrasound examination </li> </ul> </li> <li>Diagnostic ultrasound guided core needle biopsy</li> <li>Diagnostic/ therapeutic needle aspiration of cysts/abscess </li> <li>Abscess drainage</li> <li>Management of benign breast conditions such as mastitis, infections, galactocele</li> <li>Management of nipple discharge </li> <li>Management of benign breast lumps such as fibroadenomas</li> <li>Management of breast cancer- core biopsy of breast lump <ul> <li>FNAC/ core biopsy of axillary lymph node</li> <li>Sentinel lymph node biopsy </li> <li>Breast conservative surgery</li> <li>Mastectomy / axillary dissection</li> <li>Breast oncoplastic procedures</li> </ul> </li> <li>Follow- up services</li> </ul>",
   "pages": "saas v2, podcast"
 }

@@ -16,7 +16,7 @@ export function OtherCheckups({
         {items.map((item) => (
           <div key={item.title} className="col">
             <div className="card card-portfolio">
-              <div className="card-img" style={{ width: 356, height: 356 }}>
+              <div className="card-img" style={{ width: 356, height: 220 }}>
                 <img src={item.image} alt="Image" />
               </div>
               <div className="card-body">
