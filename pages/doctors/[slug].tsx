@@ -72,7 +72,8 @@ const Page = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
           <div className="col-lg-6">
             <Breadcrumbs className='mb-2' items={[{ href: Routes.doctors, name: 'Doctors' }]} />
 
-            <h1 className="pb-2 pb-md-3">{data.name}</h1>
+            <h1 className="mb-0">{data.name}</h1>
+            <p className="fs-sm text-reset pb-2 pb-md-3">{data.degree}</p>
             <p
               className="fs-xl pb-4 mb-1 mb-md-2 mb-lg-3"
               style={{ maxWidth: '526px' }}
