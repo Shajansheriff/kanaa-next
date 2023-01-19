@@ -1,5 +1,5 @@
 {
-  "title": "Egg Freezing",
+  "title": "Oocyte Cryopreservation",
   "description": "<p>Oocyte Cryopreservation(OC) is a process by which eggs are formed, extracted and stored for future use in a lady.</p> <p>The lady undergoes a transvaginal ultrasound, evaluation of hormones and detailed counseling about the prospects in her particular case prior to starting the cycle.</p>",
   "image": "/fertility-preservations/egg-freezing.jpeg",
   "process": {
@@ -11,8 +11,7 @@
       { "description": "Antagonist injection started on days 5-7 depending on scan findings." },
       { "description": "Day 9-12-Trigger injection given once follicles reach mature size." },
       { "description": "Ovum pick up done under anaesthesia" },
-      { "description": "Collected mature eggs are frozen in liquid nitrogen for future use." },
-      { "description": "Result time!" }
+      { "description": "Collected mature eggs are frozen in liquid nitrogen for future use." }
     ]
   },
   "faq": [

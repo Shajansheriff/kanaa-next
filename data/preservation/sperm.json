@@ -1,7 +1,16 @@
 {
   "title": "Freezing of Sperm",
   "description": "<p>The semen sample of the male partner is processed to remove the debris and separate the fastest moving sperms which are then frozen in liquid nitrogen for future use.</p> <p> The semen sample of the male partner is processed to remove the debris and separate the fastest moving sperms which are then frozen in liquid nitrogen for future use. </p>",
-  "image": "/fertility-preservations/sperm-freezing.jpeg",
+  "image": "/fertility-preservations/sperm-freezing.jpg",
+  "reasons":[
+    "In case of sperm donation in semen banks.",
+    "In men who have difficulty collecting samples at the time of IUI due to more stress and pressure to provide “on-demand”.",
+    "In men who are going to undergo treatment for cancer which may destroy their sperms.",
+    "As a routine in IVF cycles to have a backup sample in case the husband is not available on the date of pick up or is unable to collect on that day.",
+    "As a safety precaution in men whose counts are subnormal, when they decide to wait or try other alternative treatment options in the hope that the counts may improve",
+    "In couples where the husband is stationed overseas for long periods but they want to continue treatment with a few cycles of IUI.",
+    "In all cases where sperm has been surgically retrieved as in after PESA, TESA or TESE."
+  ],
   "process": {
     "title": "SPERM FREEZING PROCESS TIMELINE",
     "steps": [
