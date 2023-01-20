@@ -1,0 +1,23 @@
+{
+    "title": "PROBET BIOPSY",
+    "description": "<p>This is a simple out-patient procedure where we insert a thin straw like plastic tube inside the uterus and suck out a little of the inner lining of the uterus called the endometrium for the purpose of sending it for biopsy .</p>",
+    "image": "/procedures/probet-biopsy.webp",
+    "faq": [
+        {
+            "question": "Why is an endometrial biopsy done?",
+            "answer": "<p>It is done in cases of abnormal uterine bleeding or postmenopausal bleeding in order to test the tissue for any disordered growth which may be a precursor of uterine cancer.</p><p>It may detect early stages of uterine cancer also in some women.</p><p>It is an easier alternative to the traditional Dilatation and curettage (D&C) as there is no need for admission or anesthesia.</p>"
+        },
+        {
+            "question": "Who might need an endometrial biopsy?",
+            "answer": "<p>For those who have the following indications endometrial biopsy:</p><ul><li>Heavy or very long menstrual periods.</li><li>Irregular menstruation.</li><li>Bleeding after menopause.</li><li>Thickened uterine lining, determined by an ultrasound.</li></ul>"
+        },
+        {
+            "question": "Is it painful?",
+            "answer": "<p>There may be minimum discomfort during the procedure which is usually reduced in minutes.<br/>Painkillers may be prescribed if required to be taken for a day after the procedure.</p>"
+        },
+        {
+            "question": "What are the benefits of an endometrial biopsy?",
+            "answer": "<p>An endometrial biopsy is the most common and accurate test used to diagnose endometrial cancer.  We will get the biopsy report from pathology in5 to 7 working days and this will help us treat you accordingly.</p>"
+        }
+    ]
+}

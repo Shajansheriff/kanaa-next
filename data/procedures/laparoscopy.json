@@ -1,0 +1,43 @@
+{
+    "title": "Laparoscopy",
+    "description": "<p>Laparoscopy is a type of surgical procedure that allows the surgeon to access the inside of the abdomen and pelvis without having to make large incisions in the skin.It is also known as keyhole surgery or minimally invasive surgery.Large incisions can be avoided during laparoscopy because the surgeon uses an instrument called a laparoscope which  is a small tube that has a light source and a camera, which relays images of the inside of the abdomen or pelvis to a television monitor.</p><p>Pictures from old site A to Z can be used</p>",
+    "image": "/procedures/laparoscopy.png",
+    "procedure": [
+        "The procedure is usually performed under general anesthesia and takes about 30 to 45 minutes. The abdomen is inflated with gas (carbon dioxide), then , the laparoscope is inserted through the small incisions. The surgeon views the interior of the pelvic cavity on a video screen transmitting the images from the camera. A dye called methylene blue is instilled into the uterus to confirm patency of tubes.",
+        "The surgeon will look for possible causes of infertility. These could be:",
+        [
+            "Abnormalities of the uterus and ovaries",
+            "Blocked fallopian tubes",
+            "Scar tissue",
+            "Fibroids",
+            "Endometriosis (which can only be confirmed via laparoscopy)"
+        ],
+        "If any abnormality is found, the surgeon may decide to correct problems detected. Then it becomes an operative laparoscopy, and small surgical instruments are manipulated through the laparoscope or another small incision point and the problems found are corrected. The surgeon closes the incision in the abdomen with a few stitches. There is usually little or no scarring."
+    ],
+    "faq": [
+        {
+            "question": "What are the indications of Laparoscopy",
+            "answer": "<p>Laparoscopy is recommended for the following conditions in infertility.</p><ul><li>Adenomyoma</li><li>Adhesions</li><li>Endometriosis</li><li>Fibroids</li><li>Ovarian Cyst</li><li>Pelvic floor disorders and pelvic inflammatory disease</li><li>Prior bilateral tubal blockage seen on HSG</li></ul>"
+        },
+        {
+            "question": "Is laparoscopy for infertility painful?",
+            "answer": "<p>The procedure is performed with general anesthesia, so you are unlikely to feel pain.</p>"
+        },
+        {
+            "question": "What are the advantages of laparoscopy in  infertility?",
+            "answer": "<p>Laparoscopy for infertility has the following advantages</p><ul><li>Few, small incisions which make it minimally invasive surgery</li><li>Faster recovery time, compared to open surgery</li><li>Shorter hospital stay</li><li>Less pain</li></ul>"
+        },
+        {
+            "question": "What is the estimated time of rest after the Laparoscopy procedure?",
+            "answer": "<p>The recovery time for laparoscopy for infertility depends on whether it is a diagnostic procedure or operative procedure. A diagnostic laparoscopy for infertility can take about 30 minutes and you can be discharged in a few hours. In case of operative procedure, you may be advised to rest for a few days. This is best discussed with your doctor.</p>"
+        },
+        {
+            "question": "What are the side effects of Laparoscopy procedure?",
+            "answer": "<p>The side effects associated with laparoscopy for infertility are few and include infection near the incision or in the bladder and possibility of adhesions forming after the procedure.</p>"
+        },
+        {
+            "question": "How soon can you try to conceive after laparoscopy?",
+            "answer": "<p>It is advised waiting for about 3 to 6 months after an operative laparoscopy</p>"
+        }
+    ]
+}

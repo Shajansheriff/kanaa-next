@@ -1,0 +1,37 @@
+{
+    "title": "HSG",
+    "description": "<p>A hysterosalpingogram is an x-ray procedure to assess the uterine cavity and patency of the fallopian tubes. <br/>It is done between day 3 to day 10 of the menstrual cycle.</p>",
+    "image": "/procedures/hsg.jpg",
+    "procedure":[
+        "The patient is made to lie down in the x-ray room",
+        "And the genital parts are cleaned with antiseptic solution and draped.",
+        "A speculum is inserted to visualise the cervix and a thin metal tube is inserted into the uterine cavity.",
+        "A radio opaque dye is injected through this and the x-ray is taken. This procedure helps in the diagnosis of any abnormality in the shape of the uterus or if there is any block in the fallopian tubes."
+    ],
+    "faq": [
+        {
+            "question": "When would a HSG be needed?",
+            "answer": "<p>The most common reason for Hsg is to evaluate subfertility/infertility or repeat miscarriages .The main purpose of HSG is to evaluate for blockages of the fallopian tubes and it also provides information about the uterine cavity such as shape and presence of scaring, and also if there are any adhesions or scaring in the pelvis. There are other less complicated and more complete studies now available and can be done to study the uterus. HSG is mainly used to study the fallopian tubes.</p>"
+        },
+        {
+            "question": "Is a Hysterosalpingogram painful?",
+            "answer": "<p>Mild pain or discomfort is common with HSG both during and afterward. Any pain or discomfort is usually brief and if needed pain relievers are prescribed to reduce it.</p>"
+        },
+        {
+            "question": "Can an HSG exam open blocked tubes?",
+            "answer": "<p>HSG is originally an established diagnostic test to check Fallopian tube blockage. However the act of introducing the contrast in to the fallopian tube provides a therapeutic effect by flushing out debris and mucus that may be limiting free passage.</p>"
+        },
+        {
+            "question": "When is HSG not done?",
+            "answer": "<p>HSG is not done if you</p><ul><li>Are pregnant</li><li>Have a pelvic infection</li><li>Have uterine bleeding at the time of procedure</li></ul>"
+        },
+        {
+            "question": "What are the risks associated with HSG?",
+            "answer": "<ul><li>Mild abdominal cramping</li><li>Radiation exposure</li><li>Iodine allergy</li><li>Infection</li><li>Spotting</li></ul>"
+        },
+        {
+            "question": "What are the alternatives to HSG?",
+            "answer": "<p>Laparoscopy , Hysteroscopy, Sonohysterography  and Sonohysterosalpingography.</p><p>Your doctor can suggest and guide you to the best suited test for you after evaluating the need.</p>"
+        }
+    ]
+}
