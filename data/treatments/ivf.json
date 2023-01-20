@@ -42,56 +42,40 @@
   ],
   "faq": [
     {
-      "question": "Who can have an IUI done?",
-      "answer": "<p>IUI may be offered to the couple if</p><p>a.the wife has at least one patent Fallopian tube</p><p>b.the husband has a sperm count of at least minimum of 5 mill motile sperms after processing</p>"
+      "question": "In which couples is IVF the only option?",
+      "answer": "<ul><li>IVF may be the only option for childbearing.</li><li>In women with bilateral tubal block.</li><li>Men with azoospermia or severe oats.</li><li>Couples requiring donor eggs, donor embryos, or surrogacy.</li></ul>"
     },
     {
-      "question": "How many cycles of IUI can be tried?",
-      "answer": "<p>Though there is no strict limit to the actual number of IUI cycles which may be done, the usual practice is to offer 3 to 6 IUI cycles depending on the couple's history and age. This is because the chances of success usually do not increase beyond this.</p>"
+      "question": "Why is IVF an expensive procedure?",
+      "answer": "<p>The highly purified recombinant injections used for ovulation induction in an IVF cycle are very expensive by themselves.</p><p>The procedure to retrieve the eggs, the process of making the embryos, freezing them and the transfer involves a complex and meticulous combination of drugs, culture media, sophisticated equipment and technical expertise. That is why IVF is more expensive compared to the other treatments</p>"
     },
     {
-      "question": "Will IUI help if my husband's counts are very low?",
-      "answer": "<p>IUI is a process in which the semen sample is processed to separate the fastest moving sperms as well as filter out the unwanted debris in the semen.</p><p>The count or number of sperms is not increased in any manner. Hence, if the sperm count is very less or nil, IUI is not the best treatment option as the pregnancy rates in such cases will be very low.</p>"
+      "question": "What is the success rate of IVF?",
+      "answer": "<p>Success rates in an IVF cycle cannot be generalized as they are case-specific and influenced by many factors such as:</p><ul><li>Age of the couple</li><li>Number of eggs obtained</li><li>Quality and number of embryos transferred</li><li>Presence of endometriosis</li><li>Quality of the sperm</li><li>Fresh or frozen cycle</li></ul><p>Worldwide the success rates are given as 30 to 40 % per cycle. When trying for 2- 3 cycles with cryopreserved embryos, this would then give us a cumulative pregnancy rate of 70 to 80% CDC has designed an IVF success estimator which can help you to roughly predict your chances.</p>"
     },
     {
-      "question": "What is the process for using donor sperm?",
-      "answer": "<p>Donor sperm IUI is an option offered to couples where the husband's counts are very less or nil and they do not want to go for or cannot afford IVF. The process is basically the same except that we use sperm samples procured from accredited sperm banks, which we inseminate in the cavity of the uterus. Informed consent taken from both husband and wife is a MUST. We usually match either of the partner's blood groups when asking for a sample but in case a request is made, certain physical characteristics like height, eye colour, hair colour, etc. can also be matched.</p>"
+      "question": "What medications are used in ovarian stimulation?",
+      "answer": "<p>Injections commonly used in an IVF cycle are:</p><ul><li>FSH - contains only follicular stimulating hormone. Mostly recombinant versions may be used depending upon the case.</li><li>HMG - Human menopausal gonadotrophins are preparations containing both FSH and LH in equal part.</li><li>LH - contains only luteinizing hormone in its pure form.</li><li>Recombinant HMG - contains recombinant FSH and LH in 2:1 ratio.</li><li>Cetrorelix or Ganirelix - these are GnRH antagonists given to prevent the premature release of eggs.</li><li>Hcg - Human Chorionic Gonadotropin is one of the injections commonly used to trigger the release of eggs from the follicles.</li><li>Leuprolide acetate - It is a GnRH agonist injection which may alternately be used as a trigger where OHSS is anticipated.</li></ul>"
     },
     {
-      "question": "Should I take leave from work after doing an IUI?",
-      "answer": "<p>An IUI is a simple procedure and there is no need to take leave post-procedure. You can continue doing your regular work and follow your regular routine.</p>"
+      "question": "How is ovum pick-up done?",
+      "answer": "<p>OPU (ovum pickup) or oocyte retrieval is a daycare procedure where the follicles are aspirated transvaginally with ultrasound guidance in the operation theatre, under IV sedation given by an anaesthetist.</p><p>The embryologist examines the collected follicular fluid under the microscope and separates the eggs from it. They will inform us about the number of mature oocytes aspirated at the end of the procedure. The retrieved eggs are then placed in the incubator.</p><p>It is important to remember that not every follicle may contain an egg and that some may contain immature eggs which are not capable of fertilization.</p><p>Hence, the total number of eggs obtained may be lower than the number of follicles documented on ultrasound.After the procedure, you may need to stay for a few hours till the sedation effect wears off and can then get discharged.</p>"
     },
     {
-      "question": "Should I take any special precautions or more rest after doing an IUI?",
-      "answer": "<p>You can continue with your usual regular daily routine after doing an IUI. You can avoid any unusual strain which is not part of your regular routine like lifting very heavy weights for example.</p>"
+      "question": "What is empty follicle syndrome?",
+      "answer": "<p>It is a rare condition of unknown reasons where there are no eggs retrieved even after an apparently normal response to ovarian stimulation and a careful aspiration.</p><p>Genetic factors, ovarian ageing are some of the reasons known to cause EFS.</p>"
     },
     {
-      "question": "Can I exercise after doing an IUI?",
-      "answer": "<p>Yes, you can continue with your regular exercise routine post-procedure. High impact activities like jumping, skipping, etc may be avoided if they are not being practised regularly by you.</p>"
+      "question": "What is OHSS?",
+      "answer": "<p>OHSS is a potentially serious condition where the ovaries have been overly stimulated by fertility medications. The ovaries may increase in size and produce large amounts of fluid which then leads to pain and bloating of the abdomen.</p><p>When there is a strong possibility of OHSS as evidenced by the number of follicles, in PCOS or very high levels of serum estradiol, we may decide to adopt a policy of “Freeze all” and avoid fresh transfer to prevent serious OHSS.</p>"
     },
     {
-      "question": "Can I have sex after doing an IUI?",
-      "answer": "<p>Yes, you can continue with your regular sexual life after doing an IUI.</p>"
+      "question": "What tests are needed before IVF?",
+      "answer": "<p><b>Pre-treatment cycle:</b></p><p>In the cycle or month preceding the intended IVF cycle, we do a set of basic investigations in the male and female partners.</p><ul><li>Tests for ovarian reserve like the FSH, LH, AMH, serology and routine blood investigations will be taken in the female partner.</li><li>AFC count on a transvaginal ultrasound may be taken.</li><li>3-D ultrasound or Diagnostic hysteroscopy may be advised to assess the uterine cavity.</li><li>Husband’s semen analysis and C&S will be taken along with serology and basic blood investigations.</li><li>You will then be asked to contact the IVF sister on day 1 of your withdrawal bleeding.</li></ul><p>These tests may be omitted in case you happen to have all the relevant reports ready with you (taken within the past 6 months) or may be done in your own country and mailed to us in case you are from out of India.</p>"
     },
     {
-      "question": "Should we do single or double insemination?",
-      "answer": "<p>Single insemination 36 to 38 hours post HCG injection, is sufficient in most couples unless the husband's counts are subnormal in which case, double insemination may provide extra benefit.</p>"
-    },
-    {
-      "question": "What is the success rate of an IUI?",
-      "answer": "<p>World over the success rates of an IUI cycle is in the range of 8 to 14% per month.</p>"
-    },
-    {
-      "question": "What can increase the chances of success with an IUI?",
-      "answer": "<p>Success rates are better</p><ul><li>when the age of the wife is lesser.</li><li>When gonadotropin injections are given to grow 2 to 3 eggs rather than.</li><li>When the husband's semen parameters are good.</li></ul>"
-    },
-    {
-      "question": "What diet should I follow after doing an IUI?",
-      "answer": "<p>There is no special diet needed after an IUI. You are advised to continue with regular healthy eating habits such as,</p><ul><li>Avoiding sugar and junk food.</li><li>Including more fruits and vegetables.</li><li>Including more protein in the diet.</li></ul>"
-    },
-    {
-      "question": "How can I improve my sperm count and motility?",
-      "answer": "<p>A few measures which may help are:</p><ul><li>Avoid Hot water baths, wearing tight underwear at home, using laptop directly on lap, etc. which can increase the temperature of the scrotum.</li><li>Drink plenty of fluids.</li><li>Have a healthy diet.</li><li>Stop smoking.</li><li>Avoid excessive alcohol intake</li><li>Try to reduce mental stress</li><li>Maintain normal body weight</li></ul>"
+      "question": "How do embryos usually develop in a lab?",
+      "answer": "<p>Embryo culture is the process following fertilization where the developing embryos are placed in a CO2 incubator and observed for subsequent development.</p><ul><li>Day 1 post-OPU - the formation of 2 PN (pronuclei) denotes fertilization success and formation of a zygote.</li><li>Day 2 post-OPU - The developing embryos should be at the 3 or 4 cell stage.</li><li>Day 3 post-OPU -The healthy embryos should be at the 7 or 8 cell stage of division.</li><li>In case we are doing day 3 transfers, we will decide on which embryos to transfer, freeze or discard at this stage depending on the number, quality of embryos and the endometrial thickness of the patient. This is a decision taken after counselling the couple.</li><li>In case of Blastocyst transfer, we will culture the embryos till day 5 posts OPU and transfer or freeze them for use in subsequent frozen embryo transfer (FET) cycles should the current one fail.</li></ul>"
     }
   ]
 }
