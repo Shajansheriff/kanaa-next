@@ -1,0 +1,43 @@
+{
+    "title": "Hysteroscopy",
+    "description": "<p><b>Hysteroscopy is a procedure used to examine the inside of the uterus.</b> A hysteroscopy usually takes between 5 and 30 minutes.</p>",
+    "image": "/procedures/hystroscopy.png",
+    "procedure": [
+        "An instrument called a speculum may be inserted into the vagina to hold it open, although this is not always needed. The vagina and cervix are cleaned with an antiseptic solution. A hysteroscope (long, thin tube containing a light and camera) is passed into the uteus – you may experience some cramping and discomfort as it passes through your cervix.",
+        "Fluid such as saline or glycine is gently pumped into the uterus to make it easier for the doctor to see inside. The camera sends pictures to a monitor so the doctor can spot any abnormalities if present.",
+        "In some cases, a small sample of tissue from the uterus lining may be removed for further testing. This is known as an endometrial biopsy.",
+        "If the findings of hysteroscopy needs to be treated such as fibroids or polyps, fine surgical instruments can be passed along the hysteroscope. These are used to cut or burn away the abnormal tissue.",
+        "<b>Indications for a hysteroscopy:</b>",
+        [
+            "Abnormal uterine bleeding",
+            "Post-menopausal bleeding",
+            "Misplaced IUCD",
+            "Assessment of cavity prior to IVF",
+            "Resection of uterine septum",
+            "Removal of endometrial polyps",
+            "Hysteroscopy myomectomy"
+        ],
+        "<b>Types of hysteroscopy:</b>",
+        "Office hysteroscopy – done without anaesthesia in the OPD",
+        "Diagnostic Hysteroscopy – done under anaesthesia or mild sedation in the operation theatre",
+        "Operative hysteroscopy- done under anaesthesia and involves some operative procedure like removal of polyps or fibroids."
+    ],
+    "faq": [
+        {
+            "question": "Is hysteroscopy a major surgery?",
+            "answer": "<p>Hysteroscopy is considered minor surgery and usually does not require an overnight stay in the hospital.</p>"
+        },
+        {
+            "question": "How painful is a hysteroscopy?",
+            "answer": "<p>If the cervix needs to be dilated, a local anesthesia is injected into the cervix since the dilation can otherwise be relatively painful. The average pain score during office hysteroscopy is 2 to 3 on a scale from zero to 10, where zero is no pain and 10 is worst pain.</p>"
+        },
+        {
+            "question": "How long does it take to recover from hysteroscopy?",
+            "answer": "<p>Most women feel they can return to normal activities, including work, the day after having a hysteroscopy. Some women return to work later the same day. However, you may wish to have a few days off to rest, particularly if you had treatment such as fibroid removal and/or a general anaesthetic was used.</p>"
+        },
+        {
+            "question": "What to expect during recovery?",
+            "answer": "<p>It is normal to have some mild cramping or a little bloody discharge for a few days after the procedure. You may be given medication to help ease the pain. If you have a fever, chills, or heavy bleeding, call your doctor right away.</p>"
+        }
+    ]
+}

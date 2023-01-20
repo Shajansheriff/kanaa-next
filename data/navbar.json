@@ -4,6 +4,20 @@
       "name": "Services",
       "items": [
         {
+          "name": "Health assessments",
+          "subItems":[
+            {
+              "name": "Gynaecological Consultation"
+            },
+            {
+              "name": "Annual woman check"
+            },
+            {
+              "name": "Breast Clinic"
+            }
+          ]
+        },
+        {
           "name": "Fertility Checkup",
           "subItems": [
             {
@@ -17,15 +31,6 @@
             },
             {
               "name": "Preconceptional counseling"
-            },
-            {
-              "name": "Gynaecological Consultation"
-            },
-            {
-              "name": "Annual woman check"
-            },
-            {
-              "name": "Breast Clinic"
             }
           ]
         },
@@ -80,7 +85,7 @@
               "name": "ERA Test"
             },
             {
-              "name": "Laser Assisted"
+              "name": "Laser Assisted Hatching"
             },
             {
               "name": "Surgical sperm retrival"
@@ -94,10 +99,10 @@
           ]
         },
         {
-          "name": "Fertility Preservation",
+          "name": "Cryopreservation",
           "subItems": [
             {
-              "name": "EGG"
+              "name": "Oocytes"
             },
             {
               "name": "Sperm"

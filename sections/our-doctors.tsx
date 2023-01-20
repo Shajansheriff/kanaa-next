@@ -53,6 +53,11 @@ export function OurDoctors({ isMini }: { isMini?: boolean }) {
           </div>
         ))}
       </div>
+      <div className='mt-2 mt-md-4 mt-lg-5'>
+        <h2 className='h2 fw-semibold'>Our Team</h2>
+        <div></div>
+        <div className='fs-lg'>{doctorsData.team.content}</div>
+      </div>
     </section>
   );
 }

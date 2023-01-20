@@ -18,7 +18,7 @@ const TestSteps = dynamic(() => import('../../../sections/test-steps'), {
   ssr: false,
 });
 
-const directory = path.join(process.cwd(), '/data/fertility-checkup');
+const directory = path.join(process.cwd(), '/data/health-assessments');
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const filenames = await fs.readdir(directory);
@@ -103,7 +103,7 @@ const Page: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
       <Breadcrumbs items={[]} />
       <FertilityCheckup data={data} />
       {data.tests && <TestSteps items={data.tests} />}
-      <OtherCheckups items={others} path="fertility-checkup"/>
+      <OtherCheckups items={others} path="health-assessments"/>
     </>
   );
 };

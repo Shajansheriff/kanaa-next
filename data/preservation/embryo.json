@@ -1,19 +1,19 @@
 {
-    "title": "Freezing of Embryo",
-    "description": "<p>The embryo transfer procedure is the last one of the in vitro fertilization process. It is a critically important procedure.</p> <p> The entire IVF cycle depends on delicate placement of the embryos at the proper location near the middle of the endometrial cavity – with minimal trauma and manipulation. </p>",
-    "image": "/fertility-preservations/embryo.jpeg",
+    "title": "Embryo Cryopreservation",
+    "description": "<p>This is the process of freezing embryos by a process called vitrification for intended long-term use in the future.</p><h2>Why is it done?</h2>",
+    "image": "/fertility-preservations/embryo.jpg",
+    "reasons":[
+      "When excess embryos are made in an IVF cycle, in order to avoid the risk of OHSS, we may choose to freeze them all and replace them in subsequent months.",
+      "As typically only 2-3 embryos maximum are transferred at one shot, the excess embryos, if any, will be frozen for future use with the consent of the couple.",
+      "For couples requiring embryo donation.",
+      "For couples who are married and want to freeze their embryos as they want to postpone childbearing for personal reasons.",
+      "When embryos need to be tested for any genetic diseases prior to using them. "
+    ],
     "process": {
       "title": "EMBRYO FREEZING PROCESS TIMELINE",
       "steps": [
-        { "description": "Patient is seen on day 1 or 2 of periods." },
-        { "description": "We do a transvaginal scan to confirm the absence of any cysts." },
-        { "description": "Medication may be started in case of a hormonal cycle to prepare the lining of the" },
-        { "description": "Ultrasound monitoring of the endometrial lining is done starting about day 10 of cycle" },
-        { "description": "Once the lining reaches a satisfactory thickness, progesterone is started," },
-        { "description": "Embryo transfer is planned after 3-5 days of progesterone depending on whether day 3 or day 5 embryos need to be replaced." },
-        { "description": "Embryo transfer is done under ultrasound guidance." },
-        { "description": "Luteal phase support with injections or medicines is advised for two weeks." },
-        { "description": "Beta hCG blood test is taken after 12 -14 days of transfer." }
+        { "description": "The formation of embryos is by an IVF/ICSI cycle give link to the same." },
+        { "description": "Once embryos are formed, the excess is frozen by a process called vitrification." }
       ]
     },
     "faq": [

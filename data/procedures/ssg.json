@@ -1,0 +1,37 @@
+{
+    "title": "Sonohysterography",
+    "description": "<p>Sonohysterography is a procedure to look at the inside of the uterus. It's a safe, painless test that uses sound waves and a computer to create images. It does not use radiation. Sonohysterography does not use ionizing radiation, has no known harmful effects, and provides a clear picture of soft tissues that don't show up well on x-rays.</p>",
+    "image": "/procedures/ssg.jpg",
+    "procedure": [
+        "A thin, flexible tube (catheter) is inserted into the cervix. Saline is sent through the catheter into the uterus. At the same time, the transducer sends high-frequency sound waves through the gel and into the body. The echoes from these sound waves create a real-time image of the inside of the uterus. This shows the structure of the uterus. The saline fluid helps the ultrasound form an image with sharper detail. This information helps to diagnose a number of different health conditions.",
+        [
+            "Uterine fibroids",
+            "Uterine polyps",
+            "Scarring inside the uterus",
+            "Abnormal shape of the uterus",
+            "Uterine cancer"
+        ]
+    ],
+    "faq": [
+        {
+            "question": "why is  Sonohysterography done ?",
+            "answer": "<p>Sonohysterography is prescribed to find the underlying cause of many problems, including abnormal uterine bleeding, infertility, and repeated miscarriage.</p>"
+        },
+        {
+            "question": "When should a sonohysterogram be performed?",
+            "answer": "<p>In a patient with regular menstrual cycles, sonohysterography should, in most cases, be performed by day 10 of the menstrual cycle. In cases of intermittent or prolonged abnormal uterine bleeding, treatment with a short course of progestin may be considered to enable timing of the procedure.</p>"
+        },
+        {
+            "question": "What are the alternatives to Sonohysterography?",
+            "answer": "<p>Other tests may be used to diagnose problems of the uterus:</p><p>Sonohysterography  has some benefits over other tests used to get information about the uterus. Other tests include:</p><ul><li><b>Hysterosalpingography.</b> This is a type of X-ray that uses radiation and a fluid that is a radioactive dye.</li><li><b>Hysteroscopy.</b> This is a surgical procedure that needs to be done with anaesthesia. But this procedure also helps to treat certain problems when it is diagnosed.</li><li><b>MRI.</b> This is an imaging test done with large magnets and a computer. An MRI may not give a clear picture of the inside of the uterus.</li></ul>"
+        },
+        {
+            "question": "What are the limitations of Sonohysterography?",
+            "answer": "<p>sonohysterography is limited in the assessment of the patency, or openness, of the fallopian tubes because of their size and structure. In cases your doctor suspects an abnormality of the fallopian tubes, they may recommend Hysterosalpingography or diagnostic hystero lap for further evaluation.</p>"
+        },
+        {
+            "question": "What to expect after a sonohysterography?",
+            "answer": "<p>Most women are able to go home right away and are back to their normal activities that day. Some of the following symptoms may occur after the test:</p><ul><li>Cramping</li><li>Spotting or light bleeding</li><li>Watery discharge</li></ul>"
+        }
+    ]
+}

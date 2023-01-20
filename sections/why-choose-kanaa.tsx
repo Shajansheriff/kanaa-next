@@ -52,10 +52,10 @@ export const WhyChooseKanaa = () => (
           >
             <div className="p-5">
               <Image
-                src="/assets/img/doctor-patient.jpg"
+                src="/assets/img/heart_foot.jpg"
                 width={482}
                 height={482}
-                className="rounded-circle"
+                className="rounded-circle img-fit-cover"
                 alt="new born baby foot"
               />
             </div>
@@ -77,6 +77,13 @@ export const WhyChooseKanaa = () => (
               <p className="fs-sm mb-0">
                 we want each and every couple to be aware of each and every step
                 of their treatment.
+              </p>
+            </div>
+            <div className="text-center text-lg-start pb-2 mb-4 mb-xl-5">
+              <i className="bx bx-star fs-1 lh-1 me-1 bg-primary text-light rounded-circle p-2"></i>
+              <h3 className="h5 pt-1 my-2">Why choose kanaa?</h3>
+              <p className="fs-sm mb-0">
+                Because we we believe in delivering best results by adopting an evidence based , ethical and holistic approach In fertility care.
               </p>
             </div>
           </div>

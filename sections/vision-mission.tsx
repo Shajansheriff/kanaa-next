@@ -43,19 +43,19 @@ export const VisionAndMission = () => {
             /> */}
             <div className="row row-cols-3 pt-4 pt-md-5 mt-2 mt-xl-4">
               <div className="col">
-                <h3 className="h2 mb-2">3,500+</h3>
+                <h3 className="h2 mb-2">5,000+</h3>
                 <p className="mb-0">
                   <strong>Deliveries</strong> successfully
                 </p>
               </div>
               <div className="col">
-                <h3 className="h2 mb-2">15+</h3>
+                <h3 className="h2 mb-2">20+</h3>
                 <p className="mb-0">
                   <strong>Years</strong> of experience
                 </p>
               </div>
               <div className="col">
-                <h3 className="h2 mb-2">10,000+</h3>
+                <h3 className="h2 mb-2">1,00,000+</h3>
                 <p className="mb-0">
                   <strong>Happy</strong> families
                 </p>

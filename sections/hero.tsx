@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export function Hero() {
   return (
@@ -7,7 +8,7 @@ export function Hero() {
         <div className="row mt-4 pt-5">
           <div className="col-xl-4 col-lg-5 text-center text-lg-start pb-3 pb-md-4 pb-lg-0">
             <h1 className="fs-xl text-uppercase">
-              Professional Medical Center
+              CENTRE FOR ASSISTED REPRODUCTION
             </h1>
             <h3 className="display-4 pb-md-2 pb-lg-4">
               Fertility care Reimagined!
@@ -31,6 +32,13 @@ export function Hero() {
                 <h2 className="text-light pb-1 pb-md-3">
                   Kanaa Fertility Center
                 </h2>
+                {/* <Image
+                  src="/assets/img/logo.png"
+                  alt="Kanaa Logo"
+                  width={96}
+                  height={48}
+                /> */}
+                {/* Point number 7: Displays not good */}
                 <p className="fs-lg text-light pb-2 pb-md-0 mb-4 mb-md-5">
                   We provide you with the highest quality of care that results
                   in a healthy happy family. Our team includes board-certified

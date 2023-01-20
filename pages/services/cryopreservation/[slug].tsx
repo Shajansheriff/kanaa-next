@@ -20,6 +20,7 @@ interface Preservation {
   image: string;
   faq: Faq[];
   process?: { title: string; steps: Step[]; };
+  reasons?:string[];
 }
 
 const preservationDirectory = path.join(process.cwd(), '/data/preservation');
@@ -123,9 +124,18 @@ const Page = ({ data }: InferGetStaticPropsType<typeof getStaticProps>) => {
               <div className="px-sm-3 px-xl-4 pt-4 py-md-3 py-lg-4 py-xl-5">
                 <h1 className="pb-2 pb-xxl-3">{data.title}</h1>
                 <div
-                  className="pb-2 mb-4 mb-xxl-5"
+                  className={!data?.reasons?.length ? "pb-2 mb-4 mb-xxl-5":""}
                   dangerouslySetInnerHTML={{ __html: data.description }}
                 />
+                {
+                  data?.reasons?.length && <ul className='pb-2 mb-4 mb-xxl-5'>
+                    {
+                      data.reasons.map((point,ind)=>{
+                        return <li key={ind} className="mb-2">{point}</li>
+                      })
+                    }
+                  </ul>
+                }
               </div>
             </div>
           </div>
